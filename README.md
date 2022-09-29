@@ -10,6 +10,9 @@ Olá 👋
 </p>
 <br/>
 <div align=center>
+<a href="mailto:diegolopes32@hotmail.com" alt="Outlook">
+  <img src="https://img.shields.io/badge/diegolopes32@hotmail.com-0078D4?style=for-the-badge&logoColor=white&logo=Microsoft+Outlook&link=mailto:diegolopes32@hotmail.com" style="border-radius:5px"/>
+</a>
 <a href="https://www.linkedin.com/in/diego-b-lopes/">
   <img src="https://img.shields.io/badge/Diego%20Lopes-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/diego-b-lopes/" style="border-radius:5px"/>
 </a>
