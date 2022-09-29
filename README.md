@@ -4,15 +4,12 @@ Olá 👋
 
 
 
-<p align="center">.
+<p align="center">
 <br/>Graduado em Análise e Desenvolvimento de Sistemas. Sou desenvolvedor desde 2019.<br/>
   
 </p>
 <br/>
 <div align=center>
-<a href="mailto:diegolopes32@hotmail.com" alt="Outlook">
-  <img src="https://img.shields.io/badge/diegolopes32@hotmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:diegolopes32@hotmail.com" style="border-radius:5px"/>
-</a>
 <a href="https://www.linkedin.com/in/diego-b-lopes/">
   <img src="https://img.shields.io/badge/Diego%20Lopes-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/diego-b-lopes/" style="border-radius:5px"/>
 </a>
@@ -25,6 +22,7 @@ Olá 👋
 
 
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
