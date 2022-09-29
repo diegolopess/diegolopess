@@ -1,9 +1,24 @@
-- 👋 Olá!
-<br>
-Graduado em Análise e Desenvolvimento de Sistemas. Sou desenvolvedor desde 2019.
+<h1 align="center">
+Olá 👋
+</h1>
+
+
+
+<p align="center">.
+<br/>Graduado em Análise e Desenvolvimento de Sistemas. Sou desenvolvedor desde 2019.<br/>
+  
+</p>
 <br/>
-<br>
+<div align=center>
+<a href="mailto:diegolopes32@hotmail.com" alt="Outlook">
+  <img src="https://img.shields.io/badge/diegolopes32@hotmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:diegolopes32@hotmail.com" style="border-radius:5px"/>
+</a>
+<a href="https://www.linkedin.com/in/diego-b-lopes/">
+  <img src="https://img.shields.io/badge/Diego%20Lopes-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/diego-b-lopes/" style="border-radius:5px"/>
+</a>
+</div>
 <br/>
+<h2 align='center'>
 👨‍💻  Skills
 <br>
 <br/>
