@@ -5,7 +5,7 @@ Olá 👋
 
 
 <p align="center">
-<br/>Graduado em Análise e Desenvolvimento de Sistemas. Sou desenvolvedor desde 2019.<br/>
+<br/>Graduado em Análise e Desenvolvimento de Sistemas. Sou desenvolvedor desde 2020.<br/>
   
 </p>
 <br/>
